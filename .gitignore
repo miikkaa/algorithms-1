@@ -9,3 +9,5 @@
 target/
 
 algs4.jar
+
+*.zip
